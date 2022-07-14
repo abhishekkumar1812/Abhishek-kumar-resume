@@ -1,0 +1,75 @@
+{
+    "basics": {
+        "name": "Abhishek Kumar",
+        "label": "Student",
+        "email": "2021kuec2053@iiitkota.ac.in",
+        "phone": "+919555706231",
+        
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics & Communication Engineering.",
+        "location": {
+            "address": "Q.no 630/G BLW colony, Varanasi(UP)",
+            "postalCode": "221004",
+            "city": "Varanasi",
+            "countryCode": "India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "abhishekkumar1812",
+                "url": "https://www.github.com/abhishekkumar1812"
+            },
+           
+            {
+                "network": "Instagram",
+                "username": "ken.abhishek",
+                "url": "https://instagram.com/ken.abhishek"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronic & Communication Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Volleyball",
+                "Badminton"
+            ]
+        }
+    ]
+}
